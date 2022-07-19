@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "m1",
+      "name": "idli",
+      "description": "Most Popular breakfast of India",
+      "img": "../../../assets/idli.jpg",
+      "price": "20"
+    },
+    {
+      "id": "m2",
+      "name": "dosa",
+      "description": "Crispy, savory and slightly sour!",
+      "img": "../../assets/dosa.jpg",
+      "price": "35"
+    },
+    {
+      "id": "m3",
+      "name": "puri",
+      "description": "A Deep-fried bread made from unleavened whole-wheat flour",
+      "img": "../../assets/puri.jpg",
+      "price": "30"
+    },
+    {
+      "id": "m4",
+      "name": "pongal",
+      "description": "Most reliable Indian Rice dish",
+      "img": "../../assets/pongal.jpg",
+      "price": "25"
+    }
+  ]
+}
